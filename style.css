@@ -1,0 +1,11 @@
+html {
+    background-image: url(https://th.bing.com/th/id/OIP.SZSE7PhKjzlByOlU7WZ_DwHaEK?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+container {
+    height: 100px;
+  line-height: 100px;
+  text-align: center;
+  border: 2px dashed #f69c55;
+}
